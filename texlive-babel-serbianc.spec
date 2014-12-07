@@ -6,7 +6,7 @@
 # catalog-version 2.2
 Name:		texlive-babel-serbianc
 Version:	2.2
-Release:	7
+Release:	8
 Summary:	Babel module to support Serbian Cyrillic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/serbianc
