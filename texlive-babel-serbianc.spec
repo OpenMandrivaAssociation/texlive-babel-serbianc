@@ -1,6 +1,6 @@
 Name:		texlive-babel-serbianc
 Version:	64588
-Release:	1
+Release:	2
 Summary:	Babel module to support Serbian Cyrillic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/serbianc
